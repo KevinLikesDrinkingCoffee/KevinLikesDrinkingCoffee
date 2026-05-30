@@ -1,22 +1,9 @@
-## Hi there 👋
+> *The true universal is the concrete universal.*
 
-I'm Zhenyu Wu. Currently a PhD student @ CASR lab of the University of Hong Kong. My research interest lies in FPGA, customized hardware and AI infra.
+## Hi there! My name is Zhenyu Wu(吴震宇)
+### About me
+I work on high-performance computing. I’m currently a fourth-year PhD student at The University of Hong Kong, with a keen interest in FPGA and hardware design.
 
 My doctoral research focuses on accelerating sparse matrix-vector multiplication on heterogeneous systems. You can find my work in the [HPCA’25](https://doi.org/10.1109/HPCA61900.2025.00068) paper and the open-source [SPASM](https://github.com/KevinLikesDrinkingCoffee/spasm-tools) library.
 
-You can contact me @ zhenyuwu@connect.hku.hk
-
-<!--
-**KevinLikesDrinkingCoffee/KevinLikesDrinkingCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach me at [zhenyuwu@connect.hku.hk](mailto:zhenyuwu@connect.hku.hk) for any topics.
