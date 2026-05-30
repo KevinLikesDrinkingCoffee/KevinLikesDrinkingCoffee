@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 我是 Kevin
 
-<!--
-**KevinLikesDrinkingCoffee/KevinLikesDrinkingCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub Profile！
 
-Here are some ideas to get you started:
+### 🙋‍♂️ About Me
+- ☕ 咖啡重度爱好者，喜欢一边喝咖啡一边写代码
+- 💻 对工程效率、自动化和有趣的小项目很感兴趣
+- 🌱 持续学习中：后端开发 / 云原生 / AI 工具链
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 近期在做
+- 🔭 打磨个人项目与开发流程
+- 🧪 尝试把更多想法快速做成可运行的原型
+- 📚 记录技术学习笔记与实践经验
+
+### 🤝 可以一起聊
+- 💬 编程学习路径与项目实践
+- 🛠️ 开发工具、效率流和工作流优化
+- ☕ 咖啡、键盘和程序员周边
+
+### 📫 联系我
+- GitHub Issues / Discussions
+- 也欢迎通过仓库互动交流
+
+---
+⭐ 如果你喜欢我的项目，欢迎点个 Star！
