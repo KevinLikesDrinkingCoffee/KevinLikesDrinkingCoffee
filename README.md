@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Zhenyu Wu. Currently a PhD student @ CASR lab of the University of Hong Kong. My research interest lies in FPGA, customized hardware and AI infra. 
+I'm Zhenyu Wu. Currently a PhD student @ CASR lab of the University of Hong Kong. My research interest lies in FPGA, customized hardware and AI infra.
+
+My doctoral research focuses on accelerating sparse matrix-vector multiplication on heterogeneous systems. You can find my work in the [HPCA’25](https://doi.org/10.1109/HPCA61900.2025.00068) paper and the open-source [SPASM](https://github.com/KevinLikesDrinkingCoffee/spasm-tools) library.
 
 You can contact me @ zhenyuwu@connect.hku.hk
 
