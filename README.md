@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+---
+I'm Zhenyu Wu. Currently a PhD student @ CASR lab of the University of Hong Kong. My research interest lies in FPGA, customized hardware and AI infra. 
+
+You can contact me @ zhenyuwu@connect.hku.hk
+
 <!--
 **KevinLikesDrinkingCoffee/KevinLikesDrinkingCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
