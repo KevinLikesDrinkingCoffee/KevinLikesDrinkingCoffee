@@ -1,5 +1,7 @@
 > *The true universal is the concrete universal.*
 
+![](https://komarev.com/ghpvc/?username=KevinLikesDrinkingCoffee&abbreviated=true)
+
 ## Hi there! My name is Zhenyu Wu(吴震宇)
 ### About me
 I work on high-performance computing. I’m currently a fourth-year PhD student at The University of Hong Kong, with a keen interest in FPGA and hardware design.
