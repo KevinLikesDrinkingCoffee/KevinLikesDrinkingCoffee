@@ -7,3 +7,11 @@ I work on high-performance computing. I’m currently a fourth-year PhD student 
 My doctoral research focuses on accelerating sparse matrix-vector multiplication on heterogeneous systems. You can find my work in the [HPCA’25](https://doi.org/10.1109/HPCA61900.2025.00068) paper and the open-source [SPASM](https://github.com/KevinLikesDrinkingCoffee/spasm-tools) library.
 
 Feel free to reach me at [zhenyuwu@connect.hku.hk](mailto:zhenyuwu@connect.hku.hk) for any topics.
+
+### Skills
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-0091C7?style=flat-square&logo=verilog&logoColor=white"/>
+</p>
